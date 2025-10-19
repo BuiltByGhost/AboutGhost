@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+  <img src="M o o n K n i g h t  -XxX.jpeg" width="250"/>
 </p>
 
 <h1 align="center">👻 BuiltByGhoste</h1>
